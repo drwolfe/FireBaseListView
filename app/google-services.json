@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935618640351",
+    "firebase_url": "https://fir-listview-e2e42.firebaseio.com",
+    "project_id": "fir-listview-e2e42",
+    "storage_bucket": "fir-listview-e2e42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935618640351:android:487ff5f731b25fde",
+        "android_client_info": {
+          "package_name": "com.wolfedendevs.firebaselistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935618640351-i6jp7fr38jjqhsv5dtm88qtqbnojra2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqOJVs3eO-hDJPxE73iFWmBzrSwTVaBw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
